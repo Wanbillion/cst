@@ -54,7 +54,7 @@
   "dependencies": {
     "babel-runtime": "^6.9.2",
     "babylon": "^6.8.1",
-    "source-map-support": "^0.4.0"
+    "source-map-support": "^0.5.21"
   },
   "files": [
     "lib"
